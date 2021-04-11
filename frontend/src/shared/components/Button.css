@@ -1,0 +1,84 @@
+.button {
+  font: inherit;
+  padding: 0.5rem 1.5rem;
+  border: 1px solid #020d2b;
+  border-radius: 4px;
+  background: #020d2b;
+  color: white;
+  cursor: pointer;
+  margin-right: 1rem;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.button:focus {
+  outline: none;
+}
+
+.button:hover,
+.button:active {
+  background: #4AC7EE;
+  border-color: #4AC7EE;
+}
+
+.button--inverse {
+  background: transparent;
+  color: #4AC7EE;
+}
+
+.button--inverse:hover,
+.button--inverse:active {
+  color: white;
+  background: #4AC7EE;
+}
+
+.button--danger {
+  background: #830000;
+  border-color: #830000;
+}
+
+.button--buy {
+  background: green;
+  border-color: green;
+}
+
+.button--cart {
+  background: rgb(252, 152, 3);
+  border-color: rgb(252, 152, 3);
+}
+
+.button--buy:hover,
+.button--buy:active {
+  background: rgb(3, 79, 3);
+  border-color: rgb(3, 79, 3);
+}
+
+.button--cart:hover,
+.button--cart:active {
+  background: rgb(221, 137, 11);
+  border-color: rgb(221, 137, 11);
+}
+
+.button--danger:hover,
+.button--danger:active {
+  background: #4AC7EE;
+  border-color: #4AC7EE;
+}
+
+.button:disabled,
+.button:hover:disabled,
+.button:active:disabled {
+  background: #ccc;
+  color: #979797;
+  border-color: #ccc;
+  cursor: not-allowed;
+}
+
+.button--small {
+  font-size: 0.8rem;
+}
+
+.button--big {
+  font-size: 1.8rem;
+}
+

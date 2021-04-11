@@ -1,0 +1,37 @@
+.product-item {
+  list-style: none;
+  position: relative;
+  border-radius: 6px;
+  padding: 1rem;
+  overflow: hidden;
+  background: white;
+  width:15vh;
+  height: 30vh;
+  display:block;
+  float:left;
+}
+
+.product-item img {
+  width:85px;
+  height: 120px;
+}
+
+.product-item h4{
+  text-align: center;
+  color: black;
+  
+}
+
+
+.product-item h5{
+  text-align: center;
+  color: green;
+  margin-top: -20px;
+}
+
+.bg :hover {
+  margin-top: -3px;
+  background-color: aliceblue;
+}
+
+

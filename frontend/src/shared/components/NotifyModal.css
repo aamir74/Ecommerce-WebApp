@@ -1,0 +1,7 @@
+.message {
+    display: flex;
+}
+
+.tick-icon{
+    color: green;
+}

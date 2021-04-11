@@ -1,0 +1,161 @@
+{
+    "products": [
+        {
+            "title": "IPhone 12",
+            "description": "128 GB ROM | 17.02 cm (6.7 inch) Super Retina XDR Display | 12MP Front Camera | A14 Bionic Chip with Next Generation Neural Engine Processor",
+            "price": 122900,
+            "availability": 10,
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/61tuQdl2yLL._SX679_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51SqbCX0MBL._SL1024_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61jCXtTWt6L._SL1024_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71zZRTj3L7L._SL1500_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "One PLus 9",
+            "description": "12 GB RAM + 256 GB Storage | Resolution: 2400 x 1080 pixels 402 ppi | Operating System: OxygenOS based on Android™ 11 CPU: Qualcomm® Snapdragon™ 888 | 48MP Main Camera 16MP Front Camera",
+            "price": 49999,
+            "availability": 15,
+            "image": [
+                "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ef-rb8lb2blj_eah4rsaahmeobqcb4967_840_840.png",
+                "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ef-rb8lb2blkeoaepq5aadrcuyeuyi390_840_840.png",
+                "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ef-rb8lb2blkewajd-oaabhrebwfv0959_840_840.png",
+                "https://image01.oneplus.net/ebp/202103/12/1-m00-21-ef-rb8bwmblkeeaejxmaaa3hvkqjle722_840_840.png"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "Rolex Watch",
+            "description": "Oyster Steel | 18ct Yellow Gold | Oyster Bracelet | YellowRolesor version",
+            "price": 300000,
+            "availability": 5,
+            "image": [
+                "https://content.rolex.com/dam/new-watches-2021/watches/datejust/new-watches-2021-datejust-intro-new-datejust.jpg?imwidth=650",
+                "https://content.rolex.com/dam/new-watches-2021/thematic-pages/dials/cross-linking/new-watches-2021-dials-navigation-dials.jpg?imwidth=550"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "Nibosi Men's Watch",
+            "description": "Black Dial | Black Colored Strap | Dial Material: Alloy | Dial Diameter: 40 mm",
+            "price": 300000,
+            "availability": 7,
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/71eW4UEubkL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/51P0pvEg0uL.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61KcSS1gmIL._UL1000_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61HFjD6%2B4ZL._UL1000_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61VEgPqXhLL._UL1000_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "De Loyon Men's Shoes",
+            "description": "Closure: Lace-Up | Shoe Width: Narrow | Brand:- De Loyon | Color:- Brown/Tan/Multi | Material:- Synthetic Leather",
+            "price": 499,
+            "availability": 5,
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/714qPRxDdPL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71UrpANoZZL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/71oXjT9q2VL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61iy4vjN9KL._UL1280_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "Pelle Amor Shoes",
+            "description": "Sole: Polyurethane | Closure: Lace-Up | Heel Height: 2.5 centimeters | Shoe Width: Medium | Closure: Lace-Up",
+            "price": 899,
+            "availability": 10,
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/81CcBXxOCIL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/811Wj3DDsPL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81UZsfrJcYL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81Z3J7939ZL._UL1500_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "Leather Jacket",
+            "description": "Fit Type: Regular Fit | Material : Faux Leather | Made with finest materials | Full Zip Front Closure | Regular fit",
+            "price": 859,
+            "availability": 18,
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/61IM4IjEiJL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61UfJ0e9cEL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/611gm-IXgeL._UL1500_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "Men Denim Jeans",
+            "description": "Color: Blue | Size: Medium | Care Instructions: Machine Wash | Premium Quality | Regular fit",
+            "price": 999,
+            "availability": 8,
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/61ZGXTSfA3L._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61VyRXDEniL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/617IwvXPwOL._UL1500_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/81yFcC-NXxL._UL1500_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "Mi Laptop",
+            "description": "10th gen intel core i5-10210u processor | windows 10 home operating system  | laptop display: 14-inch (1920x 1080 )full hd | 8gb ddr4-2666mhz ram and storage: 256 gb ssd | laptop weight 1.5kg | battery life: up to 10 hours",
+            "price": 40999,
+            "availability": 8,
+            "image": [
+                "https://images-na.ssl-images-amazon.com/images/I/513XIkrVeuL._SL1100_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61r1l6h9iHL._SL1100_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/61t6otW%2BydL._SL1100_.jpg",
+                "https://images-na.ssl-images-amazon.com/images/I/513tmpmY09L._SL1100_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        },
+        {
+            "title": "Face Mask",
+            "description": "OxiClear N99 Anti Pollution Face Mask | 4 Activated Carbon Filters  | Detachable Headband D.R.D.O | Material: Organic Brushed Cotton | Color: Black",
+            "price": 399,
+            "availability": 25,
+            "image": [
+               "https://images-na.ssl-images-amazon.com/images/I/61RHc8qyR3L._SL1421_.jpg",
+               "https://images-na.ssl-images-amazon.com/images/I/61MGFp6aFEL._SL1001_.jpg",
+               "https://images-na.ssl-images-amazon.com/images/I/81t7pt8GhAL._SL1500_.jpg"
+            ],
+            "review": {
+                "name": "Aamir",
+                "comment": "Nice"
+            }
+        }
+    ]
+}

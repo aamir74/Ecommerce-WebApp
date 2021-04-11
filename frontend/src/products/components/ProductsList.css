@@ -1,0 +1,44 @@
+.products-list {
+  position: relative;
+  height:53vh;
+  display: flex;
+  overflow: hidden;
+  justify-content: center;
+  margin-left: -4%;
+  transition-duration: 1s ease;
+  transform: scale(1.08);
+}
+
+.list-container {
+  width: 99.50%;
+  overflow: hidden;
+  border:1px solid;
+  border-color: rgb(206, 192, 192);
+  height: 52vh;
+}
+
+
+
+.left-arrow-list {
+  position: absolute;
+  top: 81%;
+  left: 4%;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
+  margin: auto;
+}
+
+.right-arrow-list {
+  position: absolute;
+  top: 81%;
+  right: 4%;
+  z-index: 10;
+  cursor: pointer;
+  user-select: none;
+}
+
+@media (max-width: 767px) {    .list-container{
+  display:none;
+}
+}
