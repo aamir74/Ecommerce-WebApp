@@ -17,5 +17,7 @@ https://azon-ecommerce.web.app/
 Some basic Git commands are:
 
 $ git clone  https://github.com/aamir74/Ecommerce-WebApp.git
+
 $ cd project
+
 $ npm install
