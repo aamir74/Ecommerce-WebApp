@@ -18,6 +18,6 @@ Some basic Git commands are:
 
 $ git clone  https://github.com/aamir74/Ecommerce-WebApp.git
 
-$ cd project
+$ cd frontend or backend
 
 $ npm install
