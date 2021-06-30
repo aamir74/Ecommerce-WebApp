@@ -1,0 +1,9 @@
+.gitfork {
+    position: fixed;
+    top: 8%;
+}
+@media only screen and (max-width: 640px) {
+    .gitfork {
+        top:6%;
+    }
+}
