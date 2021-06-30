@@ -56,17 +56,37 @@
 }
 
 @media only screen and (max-width: 640px) {
-    .right-arrow {
-        right:-155%;
+    .slider {
+        position: relative;
+        height:30vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
+    .right-arrow {
+        position: absolute;
+        top: 45%;
+        right: 2%;
+        font-size: 1rem;
+        color:#0000;
+        z-index: 10;
+        cursor: pointer;
+        user-select: none;
+        color: #020d2b;
+    }
+    
+    .left-arrow {
+        font-size: 1rem;
+    }
+    
   .ocarousel {
-      margin-top: -25px;
-      width: 70%;
+      margin-top: -55px;
+      width: 100%;
+      overflow: hidden;
   }
   .image {
-    padding-top: 8px;
-    width: 250%;
-    height: 300px;
+    width: 96%;
+    height: 130px;
     border-radius: 10px;
     position: relative;  
 }
